@@ -1,0 +1,146 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.bg-parallax {
+    background: url(../images/parallax1.jpg);
+    min-height: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+}
+
+.ptext {
+    height: 10em;
+    position: relative;
+}
+
+.border {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: 250px 0;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+section {
+    text-align: center;
+}
+
+.section-light {
+    background-color: #f4f4f4;
+    color: darkgray;
+    padding: 50px 80px;
+}
+
+.bg-parallax1 {
+    background-image: url(..//images/parallax3.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+}
+
+.ptext2 {
+    height: 10em;
+    position: relative;
+}
+
+.border-trans {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: 20px 0;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+.section-dark {
+    background-color: #282e34;
+    color: darkgray;
+    padding: 50px 80px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.bg-parallax2 {
+    background-image: url(..//images/parallax2.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+}
+
+.ptext2,
+.ptext3 {
+    height: 10em;
+    position: relative;
+}
+
+.border-tran {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: 100px 0;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+.bg-parallax3 {
+    background: url(../images/parallax1.jpg);
+    min-height: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+}
+
+.border1 {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: 250px 0;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
